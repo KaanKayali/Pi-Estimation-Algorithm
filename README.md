@@ -4,6 +4,8 @@ The algorithm for computing pi in gamemaker.
 ## Overview
 
 This code uses a Monte Carlo simulation to estimate the value of Pi. The method is based on the idea that by randomly placing points within a square that encloses a circle, you can approximate Pi by comparing the ratio of points inside the circle to the total number of points.
+<br>
+<img src="./screenshots/image1.png" alt="Screenshot of program and its Monte Carlo simulation" width="400">
 
 ## Theory Behind Pi Estimation
 
