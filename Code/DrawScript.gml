@@ -46,7 +46,6 @@ draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 draw_text(textoriginxpos, textoriginypos + datatextSpacing,$"Number of dots: {numberofDots}");
 draw_text(textoriginxpos, textoriginypos + datatextSpacing*2,$"Dots inside Circle: {numberDotsinCircle}");
-draw_text(textoriginxpos, textoriginypos + datatextSpacing*3,$"Dots outside Circle: {dotindex}");
 
 var pistring = string_format(estimatedPI, 5, 5);
 draw_text(textoriginxpos, textoriginypos + datatextSpacing*4,$"Calculated Pi: {pistring}");
