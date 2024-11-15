@@ -58,10 +58,6 @@ The Draw event handles the rendering of the visual elements on the screen.
 
 4. **Display Data**: Information such as the total number of dots, the number of dots inside the circle, and the current estimate of Pi is drawn on the screen. The value of Pi is formatted to five decimal places for display.
 
-## Conclusion
-
-This code effectively demonstrates a Monte Carlo approach to estimating Pi. By simulating a large number of random points, the algorithm approaches the true value of Pi with increasing accuracy as more dots are generated and checked against the circle.
-
 
 
 
